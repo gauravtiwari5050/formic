@@ -1,0 +1,8 @@
+{
+  "name": "formic",
+  "version": "0.0.1",
+  "description": "generates forms via js",
+  "main": "index.js",
+  "author": "Gaurav Tiwari <gauravtiwari5050@gmail.com>",
+  "license": "MIT"
+}
