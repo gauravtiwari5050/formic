@@ -14,7 +14,7 @@
     "tape": "^4.8.0"
   },
   "scripts": {
-    "lint": "eslint lib/ test/"
+    "lint": "eslint lib/"
   },
   "dependencies": {
     "camelcase": "^4.1.0"
