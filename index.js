@@ -1,21 +1,12 @@
-class Test {
-}
-Test.prototype.toString = function(){
-  return "Hello"
-}
+/**
+ * [exports description]
+ * @type {[type]}
+ */
 
-t = new Test()
-console.log(t.toString())
+const { FormFor } = require('./lib/components/form_for');
 
-function Foo() 
-{
-}
+const Formic = {
+  FormFor,
+};
 
-// toString override added to prototype of Foo class
-Foo.prototype.toString = function()
-{
-    return "[object Foo]";
-}
-
-var f = new Foo();
-console.log(f.toString());
+module.exports = Formic;
