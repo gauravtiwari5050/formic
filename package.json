@@ -1,6 +1,6 @@
 {
   "name": "formic",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "generates forms via js",
   "main": "index.js",
   "author": "Gaurav Tiwari <gauravtiwari5050@gmail.com>",
